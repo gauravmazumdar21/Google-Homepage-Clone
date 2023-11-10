@@ -1,6 +1,6 @@
 # Google Homepage Clone
 
-![Google Homepage Clone](https://drive.google.com/file/d/18rNw0LIG6_mH593yShv_lvQqWCcDaElw/view?usp=sharing)
+![Alt text](https://drive.google.com/file/d/18rNw0LIG6_mH593yShv_lvQqWCcDaElw/view?usp=sharing)
 
 This project is a simple clone of the Google homepage, built exclusively using HTML and CSS. The purpose of this project is to practice and showcase front-end development skills by replicating the appearance and behavior of the Google search page.
 
@@ -15,7 +15,7 @@ This project is a simple clone of the Google homepage, built exclusively using H
 
 ## Demo
 
-![Google Homepage Clone Demo](https://drive.google.com/file/d/1Lo7NClKK_TNJKu-BoDzvYXqGhiXSc8oM/view?usp=sharing)
+![Google Homepage Clone Demo]![Alt text](https://drive.google.com/file/d/1Lo7NClKK_TNJKu-BoDzvYXqGhiXSc8oM/view?usp=sharing)
 
 ## Features
 
