@@ -35,4 +35,4 @@ This project is a simple clone of the Google homepage, built exclusively using H
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/google-homepage-clone.git
+git clone https://github.com/gauravmazumdar21/Google-Homepage-Clone
