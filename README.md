@@ -1,8 +1,8 @@
-# Google Homepage Clone(https://gauravmazumdar21.github.io/Google-Homepage-Clone/)
+# Google Homepage Clone
 
 
 ![Google_Homepage  Referrence](https://github.com/gauravmazumdar21/Google-Homepage-Clone/assets/26565041/73ac2cb9-8222-4085-98c6-e3e12bea8f30)
-
+(https://gauravmazumdar21.github.io/Google-Homepage-Clone/)
 This project is a simple clone of the Google homepage, built exclusively using HTML and CSS. The purpose of this project is to practice and showcase front-end development skills by replicating the appearance and behavior of the Google search page.
 
 ## Table of Contents
